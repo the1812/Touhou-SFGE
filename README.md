@@ -14,7 +14,7 @@
 | [生与死的境界](https://www.bilibili.com/video/BV1Sy4y1Y773?p=1&t=1387) | 23:07 ~ 33:05 | 09:58 | / |
 | [嘉宾祝福1](https://www.bilibili.com/video/BV1Sy4y1Y773?p=1&t=1985) | 33:05 ~ 38:14 | 05:09 | / |
 | [R.I.P.――Rest In Peace](https://www.bilibili.com/video/BV1Sy4y1Y773?p=1&t=2294) | 38:14 ~ 41:37 | 03:23 | / |
-| [东方夜明歌](https://www.bilibili.com/video/BV1Sy4y1Y773?p=1&t=2497) | 41:37 ~ 48:36 | 06:59 | / |
+| [东方夜明歌](https://www.bilibili.com/video/BV1Sy4y1Y773?p=1&t=2497) | 41:37 ~ 48:36 | 06:59 | [av331675871](https://www.bilibili.com/video/av331675871) / [BV1RA411T7E9](https://www.bilibili.com/video/BV1RA411T7E9) |
 | [主持3 - 小铃, 早苗](https://www.bilibili.com/video/BV1Sy4y1Y773?p=1&t=2916) | 48:36 ~ 49:54 | 01:18 | / |
 | [学漫才](https://www.bilibili.com/video/BV1Sy4y1Y773?p=1&t=2994) | 49:54 ~ 66:12 | 16:18 | / |
 
@@ -62,7 +62,7 @@
 | [东方没嘻哈――灵梦vs八云紫](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=1527) | 25:27 ~ 29:17 | 03:50 | / |
 | [DUOLOGUE: A FRIDAY CHAT](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=1757) | 29:17 ~ 36:29 | 07:12 | / |
 | [夙愿](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=2189) | 36:29 ~ 40:39 | 04:10 | / |
-| [老腔皮影戏《东方非想天则》](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=2439) | 40:39 ~ 66:03 | 25:24 | / |
+| [老腔皮影戏《东方非想天则》](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=2439) | 40:39 ~ 66:03 | 25:24 | [av416680994](https://www.bilibili.com/video/av416680994) / [BV1CV411i7G7](https://www.bilibili.com/video/BV1CV411i7G7) |
 | [无何有之乡](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=3963) | 66:03 ~ 71:12 | 05:09 | / |
 | [挠痒痒地狱之刑](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=4272) | 71:12 ~ 75:07 | 03:55 | / |
 | [华魂](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=4507) | 75:07 ~ 80:20 | 05:13 | / |
