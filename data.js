@@ -309,11 +309,12 @@ const getTime = seconds => {
 }
 const table = data.map((item, index) => {
   const mainLink = (() => {
+    const title = item.title.replace('~', '\\~')
     if (item.time) {
       const page = item.page || 1
-      return `| [${item.title}](${prefix}${main.bvid}?p=${page}&t=${getSeconds(item.time)}) `
+      return `| [${title}](${prefix}${main.bvid}?p=${page}&t=${getSeconds(item.time)}) `
     }
-    return `| ${item.title} `
+    return `| ${title} `
   })()
   const time = (() => {
     if (item.time) {

@@ -22,7 +22,7 @@
 |节目|时间|时长|单品|
 |----|----|----|----|
 | [主持4 - 灵梦, 魔理沙, 小铃, 早苗](https://www.bilibili.com/video/BV1Sy4y1Y773?p=2&t=0) | 00:00 ~ 01:43 | 01:43 | / |
-| [东方Project ~家庭教师~](https://www.bilibili.com/video/BV1Sy4y1Y773?p=2&t=103) | 01:43 ~ 06:49 | 05:06 | / |
+| [东方Project \~家庭教师~](https://www.bilibili.com/video/BV1Sy4y1Y773?p=2&t=103) | 01:43 ~ 06:49 | 05:06 | / |
 | [爱丽丝梦游仙境](https://www.bilibili.com/video/BV1Sy4y1Y773?p=2&t=409) | 06:49 ~ 11:53 | 05:04 | / |
 | [乱斗60秒: 十六夜 vs DIO](https://www.bilibili.com/video/BV1Sy4y1Y773?p=2&t=713) | 11:53 ~ 15:34 | 03:41 | / |
 | [闻鸡起舞的凭依华捣蒜](https://www.bilibili.com/video/BV1Sy4y1Y773?p=2&t=934) | 15:34 ~ 19:39 | 04:05 | / |
@@ -39,8 +39,8 @@
 |节目|时间|时长|单品|
 |----|----|----|----|
 | [幻葬梦华笺](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=0) | 00:00 ~ 02:50 | 02:50 | / |
-| [玄星 ~Hidden Stars~](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=170) | 02:50 ~ 07:39 | 04:49 | / |
-| [东游鉴的魔法书 ~新春特别篇~](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=459) | 07:39 ~ 19:03 | 11:24 | / |
+| [玄星 \~Hidden Stars~](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=170) | 02:50 ~ 07:39 | 04:49 | / |
+| [东游鉴的魔法书 \~新春特别篇~](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=459) | 07:39 ~ 19:03 | 11:24 | / |
 | [饵](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=1143) | 19:03 ~ 22:02 | 02:59 | / |
 | [东方萃梦想](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=1322) | 22:02 ~ 27:34 | 05:32 | / |
 | [「Chu♡Chu♡Chu」](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=1654) | 27:34 ~ 31:10 | 03:36 | / |
