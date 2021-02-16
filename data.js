@@ -1,27 +1,3 @@
-const main = {
-  title: '【2021·东方华灯宴】',
-  aid: '799209582',
-  bvid: 'BV1Sy4y1Y773',
-  pages: [
-    {
-      title: 'P1 牛年开气运',
-      endTime: '66:12',
-    },
-    {
-      title: 'P2 转念聚吉祥',
-      endTime: '81:33',
-    },
-    {
-      title: 'P3 乾道同和乐',
-      endTime: '79:07',
-    },
-    {
-      title: 'P4 坤仪美景长',
-      endTime: '98:32',
-    },
-  ],
-}
-const prefix = `https://www.bilibili.com/video/`
 const data = [
   {
     time: '00:00',
@@ -57,6 +33,8 @@ const data = [
     time: '16:12',
     page: 1,
     title: '东方名曲发生了奇怪的BUG',
+    aid: '289249417',
+    bvid: 'BV11f4y1z7Em',
   },
   {
     time: '23:07',
@@ -89,6 +67,8 @@ const data = [
     time: '49:54',
     page: 1,
     title: '学漫才',
+    aid: '246658480',
+    bvid: 'BV1Vv411v7F6',
   },
   {
     time: '00:00',
@@ -99,6 +79,8 @@ const data = [
     time: '01:43',
     page: 2,
     title: '东方Project ~家庭教师~',
+    aid: '374187616',
+    bvid: 'BV16o4y197q6',
   },
   {
     time: '06:49',
@@ -109,11 +91,15 @@ const data = [
     time: '11:53',
     page: 2,
     title: '乱斗60秒: 十六夜 vs DIO',
+    aid: '289136509',
+    bvid: 'BV1rf4y1r7jd',
   },
   {
     time: '15:34',
     page: 2,
     title: '闻鸡起舞的凭依华捣蒜',
+    aid: '971714560',
+    bvid: 'BV1Pp4y1W79y',
   },
   {
     time: '19:39',
@@ -124,6 +110,8 @@ const data = [
     time: '23:22',
     page: 2,
     title: '幻想乡打牌王',
+    aid: '886656818',
+    bvid: 'BV18K4y1n7yo',
   },
   {
     time: '53:14',
@@ -139,6 +127,8 @@ const data = [
     time: '58:36',
     page: 2,
     title: '幻想游戏<花映塚连弹>',
+    aid: '929246468',
+    bvid: 'BV1QK4y1Q75t',
   },
   {
     time: '67:46',
@@ -149,6 +139,8 @@ const data = [
     time: '74:27',
     page: 2,
     title: 'Daisuke',
+    aid: '374198033',
+    bvid: 'BV1ao4y197mE',
   },
   {
     time: '77:12',
@@ -159,11 +151,15 @@ const data = [
     time: '00:00',
     page: 3,
     title: '幻葬梦华笺',
+    aid: '671704057',
+    bvid: 'BV1nU4y1W7W9',
   },
   {
     time: '02:50',
     page: 3,
     title: '玄星 ~Hidden Stars~',
+    aid: '799149401',
+    bvid: 'BV16y4y1Y7hC',
   },
   {
     time: '07:39',
@@ -228,11 +224,15 @@ const data = [
     time: '03:35',
     page: 4,
     title: '東方寶麗金: 歌行休回頭',
+    aid: '844146444',
+    bvid: 'BV1N54y1Y7SA',
   },
   {
     time: '08:31',
     page: 4,
     title: '鬼王聚会',
+    aid: '714154624',
+    bvid: 'BV14X4y157fu',
   },
   {
     time: '16:44',
@@ -258,6 +258,8 @@ const data = [
     time: '36:29',
     page: 4,
     title: '夙愿',
+    aid: 'BV16y4y1Y7hC',
+    bvid: 'BV16y4y1Y7hC',
   },
   {
     time: '40:39',
@@ -301,55 +303,6 @@ const data = [
     title: 'Staff表',
   },
 ]
-const fs = require('fs')
-const template = fs.readFileSync('template.md', { encoding: 'utf-8' })
-const placeholder = '<!-- data -->'
-const header = `
-|节目|时间|时长|单品|
-|----|----|----|----|
-`.trim()
-const getSeconds = time => {
-  const [minutes, seconds] = time.split(':').map(it => parseInt(it))
-  return minutes * 60 + seconds
+module.exports = {
+  data,
 }
-const getTime = seconds => {
-  return `${Math.trunc(seconds / 60).toString().padStart(2, '0')}:${(seconds % 60).toString().padStart(2, '0')}`
-}
-const table = data.map((item, index) => {
-  const mainLink = (() => {
-    const title = item.title.replace('~', '\\~')
-    if (item.time) {
-      const page = item.page || 1
-      return `| [${title}](${prefix}${main.bvid}?p=${page}&t=${getSeconds(item.time)}) `
-    }
-    return `| ${title} `
-  })()
-  const time = (() => {
-    if (item.time) {
-      const page = item.page || 1
-      const hasNextItem = index !== data.length - 1 && data[index + 1].time && (data[index + 1].page || 1) === page
-      if (hasNextItem) {
-        const length = getTime(getSeconds(data[index + 1].time) - getSeconds(item.time))
-        return `| ${item.time} ~ ${data[index + 1].time} | ${length} `
-      }
-      const endTime = main.pages[page - 1].endTime
-      const length = getTime(getSeconds(endTime) - getSeconds(item.time))
-      return `| ${item.time} ~ ${endTime} | ${length} `
-    }
-    return '| / '
-  })()
-  const single = (() => {
-    if (item.aid && item.bvid) {
-      return `| [av${item.aid}](${prefix}av${item.aid}) / [${item.bvid}](${prefix}${item.bvid}) `
-    }
-    return '| / '
-  })()
-  if (item.time === '00:00') {
-    return `
-## ${main.pages[item.page - 1].title}
-${header}
-${mainLink + time + single + '|'}`
-  }
-  return mainLink + time + single + '|'
-}).join('\n')
-fs.writeFileSync('README.md', template.replace(placeholder, table))
