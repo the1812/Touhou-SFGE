@@ -4,6 +4,7 @@
 - 节目标题点击可直接跳转到华灯宴对应分P和时间点
 - 时间一栏包含过场动画, 位于每个单品的开头
 - 单品的 av / BV 链接点击可跳转到单品播放页面
+- 嘉宾祝福3中包含东方栖霞园PV, 因此会有单品
 
 ## P1 牛年开气运
 |节目|时间|时长|单品|
@@ -50,7 +51,7 @@
 | [「Chu♡Chu♡Chu」](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=1654) | 27:34 ~ 31:10 | 03:36 | / |
 | [主持6 - 魔理沙](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=1870) | 31:10 ~ 32:54 | 01:44 | / |
 | [红魔馆不能有两个门卫](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=1974) | 32:54 ~ 37:24 | 04:30 | / |
-| [嘉宾祝福3](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=2244) | 37:24 ~ 41:22 | 03:58 | / |
+| [嘉宾祝福3](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=2244) | 37:24 ~ 41:22 | 03:58 | [av756671778](https://www.bilibili.com/video/av756671778) / [BV1or4y1P7AL](https://www.bilibili.com/video/BV1or4y1P7AL) |
 | [高级餐厅](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=2482) | 41:22 ~ 51:59 | 10:37 | / |
 | [HAVE A NICE DAY](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=3119) | 51:59 ~ 56:37 | 04:38 | / |
 | [流浪月球 II](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=3397) | 56:37 ~ 79:07 | 22:30 | [av374210253](https://www.bilibili.com/video/av374210253) / [BV1io4y197Ez](https://www.bilibili.com/video/BV1io4y197Ez) |
