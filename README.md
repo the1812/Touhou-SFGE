@@ -28,7 +28,7 @@
 |----|----|----|----|
 | [主持4 - 灵梦, 魔理沙, 小铃, 早苗](https://www.bilibili.com/video/BV1Sy4y1Y773?p=2&t=0) | 00:00 ~ 01:43 | 01:43 | / |
 | [东方Project \~家庭教师~](https://www.bilibili.com/video/BV1Sy4y1Y773?p=2&t=103) | 01:43 ~ 06:49 | 05:06 | [av374187616](https://www.bilibili.com/video/av374187616) / [BV16o4y197q6](https://www.bilibili.com/video/BV16o4y197q6) |
-| [爱丽丝梦游仙境](https://www.bilibili.com/video/BV1Sy4y1Y773?p=2&t=409) | 06:49 ~ 11:53 | 05:04 | / |
+| [爱丽丝梦游仙境](https://www.bilibili.com/video/BV1Sy4y1Y773?p=2&t=409) | 06:49 ~ 11:53 | 05:04 | [av501678706](https://www.bilibili.com/video/av501678706) / [BV1cN411d7GV](https://www.bilibili.com/video/BV1cN411d7GV) |
 | [乱斗60秒: 十六夜 vs DIO](https://www.bilibili.com/video/BV1Sy4y1Y773?p=2&t=713) | 11:53 ~ 15:34 | 03:41 | [av289136509](https://www.bilibili.com/video/av289136509) / [BV1rf4y1r7jd](https://www.bilibili.com/video/BV1rf4y1r7jd) |
 | [闻鸡起舞的凭依华捣蒜](https://www.bilibili.com/video/BV1Sy4y1Y773?p=2&t=934) | 15:34 ~ 19:39 | 04:05 | [av971714560](https://www.bilibili.com/video/av971714560) / [BV1Pp4y1W79y](https://www.bilibili.com/video/BV1Pp4y1W79y) |
 | [嘉宾祝福2](https://www.bilibili.com/video/BV1Sy4y1Y773?p=2&t=1179) | 19:39 ~ 23:22 | 03:43 | / |
