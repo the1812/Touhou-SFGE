@@ -3,6 +3,8 @@ const data = [
     time: '00:00',
     page: 1,
     title: '射命丸',
+    aid: '801731352',
+    bvid: 'BV19y4y1E7BD',
   },
   {
     time: '02:44',
@@ -136,6 +138,8 @@ const data = [
     time: '67:46',
     page: 2,
     title: '对坐数来宝',
+    aid: '246726090',
+    bvid: 'BV1Qv411a7F7',
   },
   {
     time: '74:27',
@@ -167,6 +171,8 @@ const data = [
     time: '07:39',
     page: 3,
     title: '东游鉴的魔法书 ~新春特别篇~',
+    aid: '331699182',
+    bvid: 'BV1AA411M7bc',
   },
   {
     time: '19:03',
@@ -183,7 +189,7 @@ const data = [
   {
     time: '27:34',
     page: 3,
-    title: '「Chu♡Chu♡Chu」',
+    title: '「Ｃｈｕ♡Ｃｈｕ♡Ｃｈｕ」',
   },
   {
     time: '31:10',
@@ -194,6 +200,8 @@ const data = [
     time: '32:54',
     page: 3,
     title: '红魔馆不能有两个门卫',
+    aid: '289133362',
+    bvid: 'BV1kf4y1r7VA',
   },
   {
     time: '37:24',
@@ -222,7 +230,9 @@ const data = [
   {
     time: '00:00',
     page: 4,
-    title: 'ヲタ芸',
+    title: '遊！祭り綺想曲',
+    aid: '929227515',
+    bvid: 'BV1qK4y1Q7eK',
   },
   {
     time: '03:35',
@@ -242,6 +252,8 @@ const data = [
     time: '16:44',
     page: 4,
     title: '请笃信一个梦',
+    aid: '801673908',
+    bvid: 'BV12y4y1E75L',
   },
   {
     time: '21:29',
@@ -257,6 +269,8 @@ const data = [
     time: '29:17',
     page: 4,
     title: 'DUOLOGUE: A FRIDAY CHAT',
+    aid: '204170497',
+    bvid: 'BV1Rh411C74E',
   },
   {
     time: '36:29',
@@ -283,6 +297,8 @@ const data = [
     time: '71:12',
     page: 4,
     title: '挠痒痒地狱之刑',
+    aid: '929217335',
+    bvid: 'BV1CK4y1Q7gS',
   },
   {
     time: '75:07',
@@ -304,7 +320,9 @@ const data = [
   {
     time: '95:09',
     page: 4,
-    title: 'Staff表',
+    title: 'Staff表 / 片尾曲',
+    aid: '374242238',
+    bvid: 'BV12o4y197tA',
   },
 ]
 module.exports = {
