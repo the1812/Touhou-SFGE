@@ -64,7 +64,7 @@
 | [鬼王聚会](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=511) | 08:31 ~ 16:44 | 08:13 | [av714154624](https://www.bilibili.com/video/av714154624) / [BV14X4y157fu](https://www.bilibili.com/video/BV14X4y157fu) |
 | [请笃信一个梦](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=1004) | 16:44 ~ 21:29 | 04:45 | [av801673908](https://www.bilibili.com/video/av801673908) / [BV12y4y1E75L](https://www.bilibili.com/video/BV12y4y1E75L) |
 | [嘉宾祝福4](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=1289) | 21:29 ~ 25:27 | 03:58 | / |
-| [东方没嘻哈――灵梦vs八云紫](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=1527) | 25:27 ~ 29:17 | 03:50 | / |
+| [东方没嘻哈――灵梦vs八云紫](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=1527) | 25:27 ~ 29:17 | 03:50 | [av756733668](https://www.bilibili.com/video/av756733668) / [BV1Lr4y1N7J2](https://www.bilibili.com/video/BV1Lr4y1N7J2) |
 | [DUOLOGUE: A FRIDAY CHAT](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=1757) | 29:17 ~ 36:29 | 07:12 | [av204170497](https://www.bilibili.com/video/av204170497) / [BV1Rh411C74E](https://www.bilibili.com/video/BV1Rh411C74E) |
 | [夙愿](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=2189) | 36:29 ~ 40:39 | 04:10 | [av204191660](https://www.bilibili.com/video/av204191660) / [BV16y4y1Y7hC](https://www.bilibili.com/video/BV16y4y1Y7hC) |
 | [老腔皮影戏《东方非想天则》](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=2439) | 40:39 ~ 66:03 | 25:24 | [av416680994](https://www.bilibili.com/video/av416680994) / [BV1CV411i7G7](https://www.bilibili.com/video/BV1CV411i7G7) |
@@ -75,4 +75,4 @@
 | [结束动画](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=4956) | 82:36 ~ 95:09 | 12:33 | / |
 | [Staff表 / 片尾曲](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=5709) | 95:09 ~ 98:32 | 03:23 | [av374242238](https://www.bilibili.com/video/av374242238) / [BV12o4y197tA](https://www.bilibili.com/video/BV12o4y197tA) |
 
-单品发布进度: 33/42 (78%)
+单品发布进度: 34/42 (80%)
