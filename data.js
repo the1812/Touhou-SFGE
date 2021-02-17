@@ -15,6 +15,8 @@ const data = [
     time: '11:51',
     page: 1,
     title: '开场动画',
+    aid: '886663331',
+    bvid: 'BV1YK4y1n7Vz',
   },
   {
     time: '12:53',
@@ -42,6 +44,8 @@ const data = [
     time: '23:07',
     page: 1,
     title: '生与死的境界',
+    aid: '929186573',
+    bvid: 'BV1sK4y1Q7h4',
   },
   {
     time: '33:05',
@@ -214,6 +218,8 @@ const data = [
     time: '41:22',
     page: 3,
     title: '高级餐厅',
+    aid: '844171986',
+    bvid: 'BV1G54y1Y7ru',
   },
   {
     time: '51:59',

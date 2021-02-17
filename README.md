@@ -11,12 +11,12 @@
 |----|----|----|----|
 | [射命丸](https://www.bilibili.com/video/BV1Sy4y1Y773?p=1&t=0) | 00:00 ~ 02:44 | 02:44 | [av801731352](https://www.bilibili.com/video/av801731352) / [BV19y4y1E7BD](https://www.bilibili.com/video/BV19y4y1E7BD) |
 | [开宴「流光惊鸿」](https://www.bilibili.com/video/BV1Sy4y1Y773?p=1&t=164) | 02:44 ~ 11:51 | 09:07 | / |
-| [开场动画](https://www.bilibili.com/video/BV1Sy4y1Y773?p=1&t=711) | 11:51 ~ 12:53 | 01:02 | / |
+| [开场动画](https://www.bilibili.com/video/BV1Sy4y1Y773?p=1&t=711) | 11:51 ~ 12:53 | 01:02 | [av886663331](https://www.bilibili.com/video/av886663331) / [BV1YK4y1n7Vz](https://www.bilibili.com/video/BV1YK4y1n7Vz) |
 | [主持1 - 灵梦, 魔理沙](https://www.bilibili.com/video/BV1Sy4y1Y773?p=1&t=773) | 12:53 ~ 13:31 | 00:38 | / |
 | [广告环节](https://www.bilibili.com/video/BV1Sy4y1Y773?p=1&t=811) | 13:31 ~ 14:47 | 01:16 | / |
 | [主持2 - 灵梦, 魔理沙](https://www.bilibili.com/video/BV1Sy4y1Y773?p=1&t=887) | 14:47 ~ 16:12 | 01:25 | / |
 | [东方名曲发生了奇怪的BUG](https://www.bilibili.com/video/BV1Sy4y1Y773?p=1&t=972) | 16:12 ~ 23:07 | 06:55 | [av289249417](https://www.bilibili.com/video/av289249417) / [BV11f4y1z7Em](https://www.bilibili.com/video/BV11f4y1z7Em) |
-| [生与死的境界](https://www.bilibili.com/video/BV1Sy4y1Y773?p=1&t=1387) | 23:07 ~ 33:05 | 09:58 | / |
+| [生与死的境界](https://www.bilibili.com/video/BV1Sy4y1Y773?p=1&t=1387) | 23:07 ~ 33:05 | 09:58 | [av929186573](https://www.bilibili.com/video/av929186573) / [BV1sK4y1Q7h4](https://www.bilibili.com/video/BV1sK4y1Q7h4) |
 | [嘉宾祝福1](https://www.bilibili.com/video/BV1Sy4y1Y773?p=1&t=1985) | 33:05 ~ 38:14 | 05:09 | / |
 | [R.I.P.――Rest In Peace](https://www.bilibili.com/video/BV1Sy4y1Y773?p=1&t=2294) | 38:14 ~ 41:37 | 03:23 | / |
 | [东方夜明歌](https://www.bilibili.com/video/BV1Sy4y1Y773?p=1&t=2497) | 41:37 ~ 48:36 | 06:59 | [av331675871](https://www.bilibili.com/video/av331675871) / [BV1RA411T7E9](https://www.bilibili.com/video/BV1RA411T7E9) |
@@ -52,7 +52,7 @@
 | [主持6 - 魔理沙](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=1870) | 31:10 ~ 32:54 | 01:44 | / |
 | [红魔馆不能有两个门卫](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=1974) | 32:54 ~ 37:24 | 04:30 | [av289133362](https://www.bilibili.com/video/av289133362) / [BV1kf4y1r7VA](https://www.bilibili.com/video/BV1kf4y1r7VA) |
 | [嘉宾祝福3](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=2244) | 37:24 ~ 41:22 | 03:58 | [av756671778](https://www.bilibili.com/video/av756671778) / [BV1or4y1P7AL](https://www.bilibili.com/video/BV1or4y1P7AL) |
-| [高级餐厅](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=2482) | 41:22 ~ 51:59 | 10:37 | / |
+| [高级餐厅](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=2482) | 41:22 ~ 51:59 | 10:37 | [av844171986](https://www.bilibili.com/video/av844171986) / [BV1G54y1Y7ru](https://www.bilibili.com/video/BV1G54y1Y7ru) |
 | [HAVE A NICE DAY](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=3119) | 51:59 ~ 56:37 | 04:38 | / |
 | [流浪月球 II](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=3397) | 56:37 ~ 79:07 | 22:30 | [av374210253](https://www.bilibili.com/video/av374210253) / [BV1io4y197Ez](https://www.bilibili.com/video/BV1io4y197Ez) |
 
@@ -74,3 +74,5 @@
 | [主持7 - 灵梦, 魔理沙, 小铃, 早苗](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=4820) | 80:20 ~ 82:36 | 02:16 | / |
 | [结束动画](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=4956) | 82:36 ~ 95:09 | 12:33 | / |
 | [Staff表 / 片尾曲](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=5709) | 95:09 ~ 98:32 | 03:23 | [av374242238](https://www.bilibili.com/video/av374242238) / [BV12o4y197tA](https://www.bilibili.com/video/BV12o4y197tA) |
+
+单品发布进度: 33/42 (78%)
