@@ -18,7 +18,7 @@
 | [东方名曲发生了奇怪的BUG](https://www.bilibili.com/video/BV1Sy4y1Y773?p=1&t=972) | 16:12 ~ 23:07 | 06:55 | [av289249417](https://www.bilibili.com/video/av289249417) / [BV11f4y1z7Em](https://www.bilibili.com/video/BV11f4y1z7Em) |
 | [生与死的境界](https://www.bilibili.com/video/BV1Sy4y1Y773?p=1&t=1387) | 23:07 ~ 33:05 | 09:58 | [av929186573](https://www.bilibili.com/video/av929186573) / [BV1sK4y1Q7h4](https://www.bilibili.com/video/BV1sK4y1Q7h4) |
 | [嘉宾祝福1](https://www.bilibili.com/video/BV1Sy4y1Y773?p=1&t=1985) | 33:05 ~ 38:14 | 05:09 | / |
-| [R.I.P.――Rest In Peace](https://www.bilibili.com/video/BV1Sy4y1Y773?p=1&t=2294) | 38:14 ~ 41:37 | 03:23 | / |
+| [R.I.P.――Rest In Peace](https://www.bilibili.com/video/BV1Sy4y1Y773?p=1&t=2294) | 38:14 ~ 41:37 | 03:23 | [av374165570](https://www.bilibili.com/video/av374165570) / [BV1Wo4y197dD](https://www.bilibili.com/video/BV1Wo4y197dD) |
 | [东方夜明歌](https://www.bilibili.com/video/BV1Sy4y1Y773?p=1&t=2497) | 41:37 ~ 48:36 | 06:59 | [av331675871](https://www.bilibili.com/video/av331675871) / [BV1RA411T7E9](https://www.bilibili.com/video/BV1RA411T7E9) |
 | [主持3 - 小铃, 早苗](https://www.bilibili.com/video/BV1Sy4y1Y773?p=1&t=2916) | 48:36 ~ 49:54 | 01:18 | / |
 | [学漫才](https://www.bilibili.com/video/BV1Sy4y1Y773?p=1&t=2994) | 49:54 ~ 66:12 | 16:18 | [av246658480](https://www.bilibili.com/video/av246658480) / [BV1Vv411v7F6](https://www.bilibili.com/video/BV1Vv411v7F6) |
@@ -34,7 +34,7 @@
 | [嘉宾祝福2](https://www.bilibili.com/video/BV1Sy4y1Y773?p=2&t=1179) | 19:39 ~ 23:22 | 03:43 | / |
 | [幻想乡打牌王](https://www.bilibili.com/video/BV1Sy4y1Y773?p=2&t=1402) | 23:22 ~ 53:14 | 29:52 | [av886656818](https://www.bilibili.com/video/av886656818) / [BV18K4y1n7yo](https://www.bilibili.com/video/BV18K4y1n7yo) |
 | [主持5 - 小铃, 早苗](https://www.bilibili.com/video/BV1Sy4y1Y773?p=2&t=3194) | 53:14 ~ 54:34 | 01:20 | / |
-| [人相「造型术」](https://www.bilibili.com/video/BV1Sy4y1Y773?p=2&t=3274) | 54:34 ~ 58:36 | 04:02 | / |
+| [人相「造型术」](https://www.bilibili.com/video/BV1Sy4y1Y773?p=2&t=3274) | 54:34 ~ 58:36 | 04:02 | [av586765596](https://www.bilibili.com/video/av586765596) / [BV1hz4y127GL](https://www.bilibili.com/video/BV1hz4y127GL) |
 | [幻想游戏<花映塚连弹>](https://www.bilibili.com/video/BV1Sy4y1Y773?p=2&t=3516) | 58:36 ~ 67:46 | 09:10 | [av929246468](https://www.bilibili.com/video/av929246468) / [BV1QK4y1Q75t](https://www.bilibili.com/video/BV1QK4y1Q75t) |
 | [对坐数来宝](https://www.bilibili.com/video/BV1Sy4y1Y773?p=2&t=4066) | 67:46 ~ 74:27 | 06:41 | [av246726090](https://www.bilibili.com/video/av246726090) / [BV1Qv411a7F7](https://www.bilibili.com/video/BV1Qv411a7F7) |
 | [Daisuke](https://www.bilibili.com/video/BV1Sy4y1Y773?p=2&t=4467) | 74:27 ~ 77:12 | 02:45 | [av374198033](https://www.bilibili.com/video/av374198033) / [BV1ao4y197mE](https://www.bilibili.com/video/BV1ao4y197mE) |
@@ -46,7 +46,7 @@
 | [幻葬梦华笺](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=0) | 00:00 ~ 02:50 | 02:50 | [av671704057](https://www.bilibili.com/video/av671704057) / [BV1nU4y1W7W9](https://www.bilibili.com/video/BV1nU4y1W7W9) |
 | [玄星 \~Hidden Stars~](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=170) | 02:50 ~ 07:39 | 04:49 | [av799149401](https://www.bilibili.com/video/av799149401) / [BV16y4y1Y7hC](https://www.bilibili.com/video/BV16y4y1Y7hC) |
 | [东游鉴的魔法书 \~新春特别篇~](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=459) | 07:39 ~ 19:03 | 11:24 | [av331699182](https://www.bilibili.com/video/av331699182) / [BV1AA411M7bc](https://www.bilibili.com/video/BV1AA411M7bc) |
-| [饵](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=1143) | 19:03 ~ 22:02 | 02:59 | / |
+| [饵](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=1143) | 19:03 ~ 22:02 | 02:59 | [av374334473](https://www.bilibili.com/video/av374334473) / [BV1Lo4y1R7eq](https://www.bilibili.com/video/BV1Lo4y1R7eq) |
 | [东方萃梦想](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=1322) | 22:02 ~ 27:34 | 05:32 | [av756651265](https://www.bilibili.com/video/av756651265) / [BV1Fr4y1N7rv](https://www.bilibili.com/video/BV1Fr4y1N7rv) |
 | [「Ｃｈｕ♡Ｃｈｕ♡Ｃｈｕ」](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=1654) | 27:34 ~ 31:10 | 03:36 | / |
 | [主持6 - 魔理沙](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=1870) | 31:10 ~ 32:54 | 01:44 | / |
@@ -75,4 +75,4 @@
 | [幻想与宴会的民意](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=4956) | 82:36 ~ 95:09 | 12:33 | [av331646903](https://www.bilibili.com/video/av331646903) / [BV1oA411T7KG](https://www.bilibili.com/video/BV1oA411T7KG) |
 | [祈新岁·灯未央 (Staff表)](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=5709) | 95:09 ~ 98:32 | 03:23 | [av374242238](https://www.bilibili.com/video/av374242238) / [BV12o4y197tA](https://www.bilibili.com/video/BV12o4y197tA) |
 
-单品发布进度: 36/42 (85%)
+单品发布进度: 39/42 (92%)

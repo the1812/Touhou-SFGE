@@ -56,6 +56,8 @@ const data = [
     time: '38:14',
     page: 1,
     title: 'R.I.P.――Rest In Peace',
+    aid: '374165570',
+    bvid: 'BV1Wo4y197dD',
   },
   {
     time: '41:37',
@@ -130,6 +132,8 @@ const data = [
     time: '54:34',
     page: 2,
     title: '人相「造型术」',
+    aid: '586765596',
+    bvid: 'BV1hz4y127GL',
   },
   {
     time: '58:36',
@@ -184,6 +188,8 @@ const data = [
     time: '19:03',
     page: 3,
     title: '饵',
+    aid: '374334473',
+    bvid: 'BV1Lo4y1R7eq',
   },
   {
     time: '22:02',
