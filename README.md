@@ -38,7 +38,7 @@
 | [幻想游戏<花映塚连弹>](https://www.bilibili.com/video/BV1Sy4y1Y773?p=2&t=3516) | 58:36 ~ 67:46 | 09:10 | [av929246468](https://www.bilibili.com/video/av929246468) / [BV1QK4y1Q75t](https://www.bilibili.com/video/BV1QK4y1Q75t) |
 | [对坐数来宝](https://www.bilibili.com/video/BV1Sy4y1Y773?p=2&t=4066) | 67:46 ~ 74:27 | 06:41 | [av246726090](https://www.bilibili.com/video/av246726090) / [BV1Qv411a7F7](https://www.bilibili.com/video/BV1Qv411a7F7) |
 | [Daisuke](https://www.bilibili.com/video/BV1Sy4y1Y773?p=2&t=4467) | 74:27 ~ 77:12 | 02:45 | [av374198033](https://www.bilibili.com/video/av374198033) / [BV1ao4y197mE](https://www.bilibili.com/video/BV1ao4y197mE) |
-| [红莲的夕岚](https://www.bilibili.com/video/BV1Sy4y1Y773?p=2&t=4632) | 77:12 ~ 81:33 | 04:21 | / |
+| [红莲的夕岚](https://www.bilibili.com/video/BV1Sy4y1Y773?p=2&t=4632) | 77:12 ~ 81:33 | 04:21 | [av331635874](https://www.bilibili.com/video/av331635874) / [BV1rA411T7XA](https://www.bilibili.com/video/BV1rA411T7XA) |
 
 ## P3 乾道同和乐
 |节目|时间|时长|单品|
@@ -75,4 +75,4 @@
 | [幻想与宴会的民意](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=4956) | 82:36 ~ 95:09 | 12:33 | [av331646903](https://www.bilibili.com/video/av331646903) / [BV1oA411T7KG](https://www.bilibili.com/video/BV1oA411T7KG) |
 | [祈新岁·灯未央 (Staff表)](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=5709) | 95:09 ~ 98:32 | 03:23 | [av374242238](https://www.bilibili.com/video/av374242238) / [BV12o4y197tA](https://www.bilibili.com/video/BV12o4y197tA) |
 
-单品发布进度: 35/42 (83%)
+单品发布进度: 36/42 (85%)
