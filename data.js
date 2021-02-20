@@ -202,6 +202,8 @@ const data = [
     time: '27:34',
     page: 3,
     title: '「Ｃｈｕ♡Ｃｈｕ♡Ｃｈｕ」',
+    aid: '331786119',
+    bvid: 'BV1zA411M78w',
   },
   {
     time: '31:10',

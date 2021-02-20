@@ -48,7 +48,7 @@
 | [东游鉴的魔法书 \~新春特别篇~](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=459) | 07:39 ~ 19:03 | 11:24 | [av331699182](https://www.bilibili.com/video/av331699182) / [BV1AA411M7bc](https://www.bilibili.com/video/BV1AA411M7bc) |
 | [饵](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=1143) | 19:03 ~ 22:02 | 02:59 | [av374334473](https://www.bilibili.com/video/av374334473) / [BV1Lo4y1R7eq](https://www.bilibili.com/video/BV1Lo4y1R7eq) |
 | [东方萃梦想](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=1322) | 22:02 ~ 27:34 | 05:32 | [av756651265](https://www.bilibili.com/video/av756651265) / [BV1Fr4y1N7rv](https://www.bilibili.com/video/BV1Fr4y1N7rv) |
-| [「Ｃｈｕ♡Ｃｈｕ♡Ｃｈｕ」](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=1654) | 27:34 ~ 31:10 | 03:36 | / |
+| [「Ｃｈｕ♡Ｃｈｕ♡Ｃｈｕ」](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=1654) | 27:34 ~ 31:10 | 03:36 | [av331786119](https://www.bilibili.com/video/av331786119) / [BV1zA411M78w](https://www.bilibili.com/video/BV1zA411M78w) |
 | [主持6 - 魔理沙](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=1870) | 31:10 ~ 32:54 | 01:44 | / |
 | [红魔馆不能有两个门卫](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=1974) | 32:54 ~ 37:24 | 04:30 | [av289133362](https://www.bilibili.com/video/av289133362) / [BV1kf4y1r7VA](https://www.bilibili.com/video/BV1kf4y1r7VA) |
 | [嘉宾祝福3](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=2244) | 37:24 ~ 41:22 | 03:58 | [av756671778](https://www.bilibili.com/video/av756671778) / [BV1or4y1P7AL](https://www.bilibili.com/video/BV1or4y1P7AL) |
@@ -75,4 +75,4 @@
 | [幻想与宴会的民意](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=4956) | 82:36 ~ 95:09 | 12:33 | [av331646903](https://www.bilibili.com/video/av331646903) / [BV1oA411T7KG](https://www.bilibili.com/video/BV1oA411T7KG) |
 | [祈新岁·灯未央 (Staff表)](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=5709) | 95:09 ~ 98:32 | 03:23 | [av374242238](https://www.bilibili.com/video/av374242238) / [BV12o4y197tA](https://www.bilibili.com/video/BV12o4y197tA) |
 
-单品发布进度: 39/42 (92%)
+单品发布进度: 40/42 (95%)
