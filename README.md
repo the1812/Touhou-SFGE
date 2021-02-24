@@ -53,7 +53,7 @@
 | [红魔馆不能有两个门卫](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=1974) | 32:54 ~ 37:24 | 04:30 | [av289133362](https://www.bilibili.com/video/av289133362) / [BV1kf4y1r7VA](https://www.bilibili.com/video/BV1kf4y1r7VA) |
 | [嘉宾祝福3](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=2244) | 37:24 ~ 41:22 | 03:58 | [av756671778](https://www.bilibili.com/video/av756671778) / [BV1or4y1P7AL](https://www.bilibili.com/video/BV1or4y1P7AL) |
 | [高级餐厅](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=2482) | 41:22 ~ 51:59 | 10:37 | [av844171986](https://www.bilibili.com/video/av844171986) / [BV1G54y1Y7ru](https://www.bilibili.com/video/BV1G54y1Y7ru) |
-| [HAVE A NICE DAY](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=3119) | 51:59 ~ 56:37 | 04:38 | / |
+| [HAVE A NICE DAY](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=3119) | 51:59 ~ 56:37 | 04:38 | [av459324806](https://www.bilibili.com/video/av459324806) / [BV185411N7T3](https://www.bilibili.com/video/BV185411N7T3) |
 | [流浪月球 II](https://www.bilibili.com/video/BV1Sy4y1Y773?p=3&t=3397) | 56:37 ~ 79:07 | 22:30 | [av374210253](https://www.bilibili.com/video/av374210253) / [BV1io4y197Ez](https://www.bilibili.com/video/BV1io4y197Ez) |
 
 ## P4 坤仪美景长
@@ -75,4 +75,4 @@
 | [幻想与宴会的民意](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=4956) | 82:36 ~ 95:09 | 12:33 | [av331646903](https://www.bilibili.com/video/av331646903) / [BV1oA411T7KG](https://www.bilibili.com/video/BV1oA411T7KG) |
 | [祈新岁·灯未央 (Staff表)](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=5709) | 95:09 ~ 98:32 | 03:23 | [av374242238](https://www.bilibili.com/video/av374242238) / [BV12o4y197tA](https://www.bilibili.com/video/BV12o4y197tA) |
 
-单品发布进度: 40/42 (95%)
+单品发布进度: 41/42 (97%)
