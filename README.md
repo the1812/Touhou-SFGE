@@ -74,5 +74,3 @@
 | [主持7 - 灵梦, 魔理沙, 小铃, 早苗](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=4820) | 80:20 ~ 82:36 | 02:16 | / |
 | [幻想与宴会的民意](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=4956) | 82:36 ~ 95:09 | 12:33 | [av331646903](https://www.bilibili.com/video/av331646903) / [BV1oA411T7KG](https://www.bilibili.com/video/BV1oA411T7KG) |
 | [祈新岁·灯未央 (Staff表)](https://www.bilibili.com/video/BV1Sy4y1Y773?p=4&t=5709) | 95:09 ~ 98:32 | 03:23 | [av374242238](https://www.bilibili.com/video/av374242238) / [BV12o4y197tA](https://www.bilibili.com/video/BV12o4y197tA) |
-
-单品发布进度: 41/42 (97%)

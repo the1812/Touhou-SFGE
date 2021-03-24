@@ -75,10 +75,11 @@ ${mainLink + time + single + '|'}`
   return mainLink + time + single + '|'
 }).join('\n')
 const note = (() => {
-  const totalSingleCount = 8 + 10 + 11 + 13
+  const totalSingleCount = 7 + 10 + 11 + 13
   const singleCount = data.filter(it => Boolean(it.aid)).length
   if (singleCount === totalSingleCount) {
     console.log('单品已全部发布')
+    return ''
   }
   return `\n\n单品发布进度: ${singleCount}/${totalSingleCount} (${Math.trunc(singleCount * 100 / totalSingleCount)}%)`
 })()
