@@ -73,7 +73,7 @@ export const updateList = (config: {
       return `
 ## ${mainInfo.pages[item.page - 1].title}
 ${header}
-${mainLink + time + single + '|'}`
+${mainLink + type + time + single + '|'}`
     }
     return mainLink + type + time + single + '|'
   }).join('\n')
