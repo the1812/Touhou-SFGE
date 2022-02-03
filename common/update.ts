@@ -1,4 +1,5 @@
 import * as fs from 'fs'
+import { groupBy } from 'lodash'
 
 export interface MainInfo {
   title: string
@@ -85,5 +86,12 @@ ${mainLink + type + time + single + '|'}`
     }
     return `\n\n单品发布进度: ${singleCount}/${totalSingleCount} (${Math.trunc(singleCount * 100 / totalSingleCount)}%)`
   })()
+  // const typeGroups = groupBy(items, it => it.type)
+  // Object.entries(typeGroups).forEach(([type, items]) => {
+  //   if (!type || type === 'undefined') {
+  //     return
+  //   }
+  //   console.log(type, items.length)
+  // })
   fs.writeFileSync('README.md', template.replace(placeholder, table + note))
 }
