@@ -1,0 +1,16 @@
+{
+  "name": "touhou-sfge",
+  "author": {
+    "name": "Grant Howard",
+    "url": "https://github.com/the1812"
+  },
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.5"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.14"
+  }
+}

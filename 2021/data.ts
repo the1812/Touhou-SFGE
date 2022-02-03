@@ -1,4 +1,6 @@
-const data = [
+import { ListItem } from '../common/update'
+
+export const items: ListItem[] = [
   {
     time: '00:00',
     page: 1,
@@ -347,6 +349,3 @@ const data = [
     bvid: 'BV12o4y197tA',
   },
 ]
-module.exports = {
-  data,
-}
