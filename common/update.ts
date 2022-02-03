@@ -12,6 +12,7 @@ export interface ListItem {
   title: string
   aid?: string
   bvid?: string
+  type?: string
 }
 export const updateList = (config: {
   mainInfo: MainInfo
@@ -23,8 +24,8 @@ export const updateList = (config: {
   const prefix = `https://www.bilibili.com/video/`
   const placeholder = '<!-- data -->'
   const header = `
-|节目|时间|时长|单品|
-|----|----|----|----|
+|节目|类型|时间|时长|单品|
+|----|----|----|----|----|
 `.trim()
   const getSeconds = (time: string) => {
     const [minutes, seconds] = time.split(':').map(it => parseInt(it))
@@ -41,6 +42,12 @@ export const updateList = (config: {
         return `| [${title}](${prefix}${mainInfo.bvid}?p=${page}&t=${getSeconds(item.time)}) `
       }
       return `| ${title} `
+    })()
+    const type = (() => {
+      if (item.type) {
+        return `| ${item.type} `
+      }
+      return '| / '
     })()
     const time = (() => {
       if (item.time) {
@@ -68,7 +75,7 @@ export const updateList = (config: {
 ${header}
 ${mainLink + time + single + '|'}`
     }
-    return mainLink + time + single + '|'
+    return mainLink + type + time + single + '|'
   }).join('\n')
   const note = (() => {
     const singleCount = items.filter(it => Boolean(it.aid)).length
