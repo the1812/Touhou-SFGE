@@ -33,7 +33,7 @@
 | [毛玉大战](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=6764) | Cosplay | 112:44 ~ 114:26 | 01:42 | / |
 | [继续写下去, 直到最后](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=6866) | MAD | 114:26 ~ 118:07 | 03:41 | / |
 | [东方热舞派对](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=7087) | 舞蹈 | 118:07 ~ 123:57 | 05:50 | / |
-| [尘世不变的悲观主义 \~ 心绮楼囃子](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=7437) | 演奏 | 123:57 ~ 127:29 | 03:32 | / |
+| [尘世不变的悲观主义 \~ 心绮楼囃子](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=7437) | 演奏 | 123:57 ~ 127:29 | 03:32 | [av593844537](https://www.bilibili.com/video/av593844537) / [BV18q4y1b7Gp](https://www.bilibili.com/video/BV18q4y1b7Gp) |
 
 ## P2 华幕拉开万事新
 |节目|类型|时间|时长|单品|
@@ -59,4 +59,4 @@
 | [主持 4 - 阿求, 灵梦, 文, 妖梦](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=6014) | / | 100:14 ~ 102:07 | 01:53 | / |
 | [谢幕「雁别平沙」](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=6127) | 音乐 | 102:07 ~ 106:18 | 04:11 | / |
 
-单品发布进度: 17/38 (44%)
+单品发布进度: 18/38 (47%)

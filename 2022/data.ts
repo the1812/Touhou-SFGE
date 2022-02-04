@@ -162,6 +162,8 @@ export const items: ListItem[] = [
     page: 1,
     title: '尘世不变的悲观主义 ~ 心绮楼囃子',
     type: '演奏',
+    aid: "593844537",
+    bvid: "BV18q4y1b7Gp",
   },
   {
     time: '00:00',
