@@ -128,6 +128,8 @@ export const items: ListItem[] = [
     page: 1,
     title: '再次来到紫樱树下',
     type: '音乐·PV',
+    aid: '551177709',
+    bvid: 'BV1vq4y1F7zQ',
   },
   {
     time: '109:35',
