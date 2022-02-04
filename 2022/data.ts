@@ -266,6 +266,8 @@ export const items: ListItem[] = [
     page: 2,
     title: 'Spelling Love',
     type: '手书',
+    aid: '551294990',
+    bvid: 'BV1ri4y1Z7MH',
   },
   {
     time: '93:24',
