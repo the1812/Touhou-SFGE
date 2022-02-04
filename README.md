@@ -16,7 +16,7 @@
 | [熙攘市场何处在 \~ Immemorial Otomads](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=626) | 音MAD | 10:26 ~ 18:28 | 08:02 | [av723815423](https://www.bilibili.com/video/av723815423) / [BV1mS4y1k77g](https://www.bilibili.com/video/BV1mS4y1k77g) |
 | [秘封二人的秘密](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=1108) | 手书 | 18:28 ~ 23:36 | 05:08 | / |
 | [爱丽丝梦游仙境](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=1416) | 音乐剧 | 23:36 ~ 32:52 | 09:16 | / |
-| [东喜发财](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=1972) | 音乐·手书 | 32:52 ~ 35:54 | 03:02 | / |
+| [东喜发财](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=1972) | 音乐·手书 | 32:52 ~ 35:54 | 03:02 | [av338697992](https://www.bilibili.com/video/av338697992) / [BV1ER4y1j7fD](https://www.bilibili.com/video/BV1ER4y1j7fD) |
 | [主持 2 - 阿求, 妖梦](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=2154) | / | 35:54 ~ 37:03 | 01:09 | / |
 | [你是袿姬](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=2223) | 相声 | 37:03 ~ 49:52 | 12:49 | [av978787163](https://www.bilibili.com/video/av978787163) / [BV1t44y1W7EM](https://www.bilibili.com/video/BV1t44y1W7EM) |
 | [为你心里小鹿乱撞](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=2992) | 动画 | 49:52 ~ 54:31 | 04:39 | [av766284445](https://www.bilibili.com/video/av766284445) / [BV1Gr4y1h7Md](https://www.bilibili.com/video/BV1Gr4y1h7Md) |
@@ -59,4 +59,4 @@
 | [主持 4 - 阿求, 灵梦, 文, 妖梦](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=6014) | / | 100:14 ~ 102:07 | 01:53 | / |
 | [谢幕「雁别平沙」](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=6127) | 音乐 | 102:07 ~ 106:18 | 04:11 | / |
 
-单品发布进度: 16/38 (42%)
+单品发布进度: 17/38 (44%)

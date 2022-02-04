@@ -50,6 +50,8 @@ export const items: ListItem[] = [
     page: 1,
     title: '东喜发财',
     type: '音乐·手书',
+    aid: '338697992',
+    bvid: 'BV1ER4y1j7fD',
   },
   {
     time: '35:54',
