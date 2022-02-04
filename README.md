@@ -46,7 +46,7 @@
 | [卖烟花](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=1156) | 相声 | 19:16 ~ 29:38 | 10:22 | [av636315065](https://www.bilibili.com/video/av636315065) / [BV19b4y1j7mK](https://www.bilibili.com/video/BV19b4y1j7mK) |
 | [梦闲月谈](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=1778) | 音乐·PV | 29:38 ~ 33:56 | 04:18 | / |
 | [东方绀珠传 LastBoss 组曲](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=2036) | 音乐·3D | 33:56 ~ 46:02 | 12:06 | [av636343941](https://www.bilibili.com/video/av636343941) / [BV1Ab4y177pm](https://www.bilibili.com/video/BV1Ab4y177pm) |
-| [名侦探爱丽丝酱](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=2762) | 手书 | 46:02 ~ 50:58 | 04:56 | / |
+| [名侦探爱丽丝酱](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=2762) | 手书 | 46:02 ~ 50:58 | 04:56 | [av723781677](https://www.bilibili.com/video/av723781677) / [BV1qS4y1k7pv](https://www.bilibili.com/video/BV1qS4y1k7pv) |
 | [幻想乡の夏踊り](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=3058) | 舞蹈 | 50:58 ~ 56:08 | 05:10 | / |
 | [天 \~ Ancients](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=3368) | 音乐·PV | 56:08 ~ 61:04 | 04:56 | / |
 | [最善的选择](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=3664) | Cosplay | 61:04 ~ 71:21 | 10:17 | / |
@@ -59,4 +59,4 @@
 | [主持 4 - 阿求, 灵梦, 文, 妖梦](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=6014) | / | 100:14 ~ 102:07 | 01:53 | / |
 | [谢幕「雁别平沙」](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=6127) | 音乐 | 102:07 ~ 106:18 | 04:11 | / |
 
-单品发布进度: 14/38 (36%)
+单品发布进度: 15/38 (39%)

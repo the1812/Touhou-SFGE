@@ -221,6 +221,8 @@ export const items: ListItem[] = [
     page: 2,
     title: '名侦探爱丽丝酱',
     type: '手书',
+    aid: '723781677',
+    bvid: "BV1qS4y1k7pv",
   },
   {
     time: '50:58',
