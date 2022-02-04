@@ -28,6 +28,8 @@ export const items: ListItem[] = [
     page: 1,
     title: '熙攘市场何处在 ~ Immemorial Otomads',
     type: '音MAD',
+    aid: '723815423',
+    bvid: 'BV1mS4y1k77g',
   },
   {
     time: '18:28',
@@ -57,12 +59,16 @@ export const items: ListItem[] = [
     page: 1,
     title: '你是袿姬',
     type: '相声',
+    aid: '978787163',
+    bvid: 'BV1t44y1W7EM',
   },
   {
     time: '49:52',
     page: 1,
     title: '为你心里小鹿乱撞',
     type: '动画',
+    aid: '766284445',
+    bvid: 'BV1Gr4y1h7Md',
   },
   {
     time: '54:31',
@@ -104,6 +110,8 @@ export const items: ListItem[] = [
     page: 1,
     title: '完全凭依演奏会',
     type: '演奏',
+    aid: '466062186',
+    bvid: 'BV1DL411F7h7',
   },
   {
     time: '98:07',
@@ -157,6 +165,8 @@ export const items: ListItem[] = [
     page: 2,
     title: 'Midnight glow-resurrection',
     type: '音乐·PV',
+    aid: '893836342',
+    bvid: 'BV1cP4y1P7Li',
   },
   {
     time: '06:14',
@@ -181,6 +191,8 @@ export const items: ListItem[] = [
     page: 2,
     title: '卖烟花',
     type: '相声',
+    aid: '636315065',
+    bvid: 'BV19b4y1j7mK',
   },
   {
     time: '29:38',
