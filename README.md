@@ -12,7 +12,7 @@
 | [关于华灯宴的传说·其一](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=0) | / | 00:00 ~ 01:03 | 01:03 | / |
 | [开幕「宴平乐」](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=63) | 音乐·PV | 01:03 ~ 05:29 | 04:26 | / |
 | [主持 1 - 灵梦, 文](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=329) | / | 05:29 ~ 07:41 | 02:12 | / |
-| [神之乐章 - 幻想乡世界之旅](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=461) | MAD | 07:41 ~ 10:26 | 02:45 | / |
+| [神之乐章 - 幻想乡世界之旅](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=461) | MAD | 07:41 ~ 10:26 | 02:45 | [av338802856](https://www.bilibili.com/video/av338802856) / [BV1QR4y1j7ry](https://www.bilibili.com/video/BV1QR4y1j7ry) |
 | [熙攘市场何处在 \~ Immemorial Otomads](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=626) | 音MAD | 10:26 ~ 18:28 | 08:02 | [av723815423](https://www.bilibili.com/video/av723815423) / [BV1mS4y1k77g](https://www.bilibili.com/video/BV1mS4y1k77g) |
 | [秘封二人的秘密](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=1108) | 手书 | 18:28 ~ 23:36 | 05:08 | / |
 | [爱丽丝梦游仙境](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=1416) | 音乐剧 | 23:36 ~ 32:52 | 09:16 | / |
@@ -59,4 +59,4 @@
 | [主持 4 - 阿求, 灵梦, 文, 妖梦](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=6014) | / | 100:14 ~ 102:07 | 01:53 | / |
 | [谢幕「雁别平沙」](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=6127) | 音乐 | 102:07 ~ 106:18 | 04:11 | / |
 
-单品发布进度: 12/38 (31%)
+单品发布进度: 13/38 (34%)

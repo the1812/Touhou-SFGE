@@ -22,6 +22,8 @@ export const items: ListItem[] = [
     page: 1,
     title: '神之乐章 - 幻想乡世界之旅',
     type: 'MAD',
+    aid: '338802856',
+    bvid: 'BV1QR4y1j7ry',
   },
   {
     time: '10:26',
