@@ -81,6 +81,8 @@ export const items: ListItem[] = [
     page: 1,
     title: '彼与此之乡',
     type: '绘画',
+    aid: '766277013',
+    bvid: 'BV1fr4y187vm',
   },
   {
     time: '60:47',
@@ -130,6 +132,8 @@ export const items: ListItem[] = [
     page: 1,
     title: '月的另一侧',
     type: '演奏',
+    aid: '978755047',
+    bvid: 'BV1744y1W7Nh',
   },
   {
     time: '112:44',
@@ -205,6 +209,8 @@ export const items: ListItem[] = [
     page: 2,
     title: '东方绀珠传 LastBoss 组曲',
     type: '音乐·3D',
+    aid: '636343941',
+    bvid: 'BV1Ab4y177pm',
   },
   {
     time: '46:02',
@@ -246,6 +252,8 @@ export const items: ListItem[] = [
     page: 2,
     title: '源',
     type: '音乐·PV',
+    aid: '508772972',
+    bvid: 'BV1Hu411d7vL',
   },
   {
     time: '89:17',
@@ -258,12 +266,16 @@ export const items: ListItem[] = [
     page: 2,
     title: '神古战场',
     type: '演奏',
+    aid: '211300439',
+    bvid: 'BV1Ma411y7Ap',
   },
   {
     time: '97:09',
     page: 2,
     title: '馋死人',
     type: '音乐·PV',
+    aid: '636279475',
+    bvid: 'BV1kb4y1j7ip',
   },
   {
     time: '100:14',
