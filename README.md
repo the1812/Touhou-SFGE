@@ -24,7 +24,7 @@
 | [彼与此之乡](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=3417) | 绘画 | 56:57 ~ 60:47 | 03:50 | [av766277013](https://www.bilibili.com/video/av766277013) / [BV1fr4y187vm](https://www.bilibili.com/video/BV1fr4y187vm) |
 | [无法逾越的一寸之壁](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=3647) | 3D | 60:47 ~ 70:08 | 09:21 | / |
 | [苍月下的决意](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=4208) | 音乐·PV | 70:08 ~ 75:35 | 05:27 | / |
-| [嘉宾祝福](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=4535) | / | 75:35 ~ 87:02 | 11:27 | / |
+| [日本同人社团贺年](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=4535) | 嘉宾祝福 | 75:35 ~ 87:02 | 11:27 | [av296357380](https://www.bilibili.com/video/av296357380) / [BV1QF411J7vy](https://www.bilibili.com/video/BV1QF411J7vy) |
 | [Welcome Home](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=5222) | 音乐·PV | 87:02 ~ 92:09 | 05:07 | / |
 | [完全凭依演奏会](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=5529) | 演奏 | 92:09 ~ 98:07 | 05:58 | [av466062186](https://www.bilibili.com/video/av466062186) / [BV1DL411F7h7](https://www.bilibili.com/video/BV1DL411F7h7) |
 | [第 16 回东方 M1 漫才大奖赛 - 巫女巫女 Spark](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=5887) | 漫才 | 98:07 ~ 106:14 | 08:07 | / |
@@ -45,7 +45,7 @@
 | [堇梦](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=535) | 手书 | 08:55 ~ 15:20 | 06:25 | / |
 | [遇见](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=920) | MMD | 15:20 ~ 19:16 | 03:56 | [av551355900](https://www.bilibili.com/video/av551355900) / [BV1Fi4y1f7Cy](https://www.bilibili.com/video/BV1Fi4y1f7Cy) |
 | [卖烟花](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=1156) | 相声 | 19:16 ~ 29:38 | 10:22 | [av636315065](https://www.bilibili.com/video/av636315065) / [BV19b4y1j7mK](https://www.bilibili.com/video/BV19b4y1j7mK) |
-| [梦闲月谈](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=1778) | 音乐·PV | 29:38 ~ 33:56 | 04:18 | / |
+| [梦闲月谈](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=1778) | 音乐·PV | 29:38 ~ 33:56 | 04:18 | [av851136521](https://www.bilibili.com/video/av851136521) / [BV1XL4y1x7kq](https://www.bilibili.com/video/BV1XL4y1x7kq) |
 | [东方绀珠传 LastBoss 组曲](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=2036) | 音乐·3D | 33:56 ~ 46:02 | 12:06 | [av636343941](https://www.bilibili.com/video/av636343941) / [BV1Ab4y177pm](https://www.bilibili.com/video/BV1Ab4y177pm) |
 | [名侦探爱丽丝酱](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=2762) | 手书 | 46:02 ~ 50:58 | 04:56 | [av723781677](https://www.bilibili.com/video/av723781677) / [BV1qS4y1k7pv](https://www.bilibili.com/video/BV1qS4y1k7pv) |
 | [幻想乡の夏踊り](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=3058) | 舞蹈 | 50:58 ~ 56:08 | 05:10 | / |
@@ -60,4 +60,4 @@
 | [主持 4 - 阿求, 灵梦, 文, 妖梦](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=6014) | / | 100:14 ~ 102:07 | 01:53 | / |
 | [谢幕「雁别平沙」](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=6127) | 音乐 | 102:07 ~ 106:18 | 04:11 | / |
 
-单品发布进度: 23/39 (58%)
+单品发布进度: 25/40 (62%)

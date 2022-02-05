@@ -103,7 +103,10 @@ export const items: ListItem[] = [
   {
     time: '75:35',
     page: 1,
-    title: '嘉宾祝福',
+    title: '日本同人社团贺年',
+    type: '嘉宾祝福',
+    aid: '296357380',
+    bvid: 'BV1QF411J7vy',
   },
   {
     time: '87:02',
@@ -223,6 +226,8 @@ export const items: ListItem[] = [
     page: 2,
     title: '梦闲月谈',
     type: '音乐·PV',
+    aid: '851136521',
+    bvid: 'BV1XL4y1x7kq',
   },
   {
     time: '33:56',
