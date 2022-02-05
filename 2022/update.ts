@@ -8,7 +8,7 @@ const mainInfo: MainInfo = {
   pages: [
     {
       title: 'P1 灯光映照千百景',
-      endTime: '127:29',
+      endTime: '130:33',
     },
     {
       title: 'P2 华幕拉开万事新',
@@ -21,7 +21,7 @@ const mainInfo: MainInfo = {
 export const update = () => updateList({
   mainInfo,
   items,
-  singleCount: 21 + 17,
+  singleCount: 23 + 17,
   template: `
 # 【2022·东方华灯宴】节目表
 [【正片】2022·东方华灯宴](https://www.bilibili.com/video/BV16q4y1h7xX)
