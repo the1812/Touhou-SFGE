@@ -31,7 +31,7 @@
 | [再次来到紫樱树下](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=6374) | 音乐·PV | 106:14 ~ 109:35 | 03:21 | [av551177709](https://www.bilibili.com/video/av551177709) / [BV1vq4y1F7zQ](https://www.bilibili.com/video/BV1vq4y1F7zQ) |
 | [月的另一侧](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=6575) | 演奏 | 109:35 ~ 112:44 | 03:09 | [av978755047](https://www.bilibili.com/video/av978755047) / [BV1744y1W7Nh](https://www.bilibili.com/video/BV1744y1W7Nh) |
 | [毛玉大战](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=6764) | Cosplay | 112:44 ~ 114:26 | 01:42 | / |
-| [继续写下去, 直到最后](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=6866) | MAD | 114:26 ~ 118:07 | 03:41 | / |
+| [继续写下去, 直到最后](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=6866) | MAD | 114:26 ~ 118:07 | 03:41 | [av338825017](https://www.bilibili.com/video/av338825017) / [BV1ZR4y1j7yn](https://www.bilibili.com/video/BV1ZR4y1j7yn) |
 | [东方热舞派对](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=7087) | 舞蹈 | 118:07 ~ 123:57 | 05:50 | [av808865890](https://www.bilibili.com/video/av808865890) / [BV1R34y1y7oT](https://www.bilibili.com/video/BV1R34y1y7oT) |
 | [尘世不变的悲观主义 \~ 心绮楼囃子](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=7437) | 演奏 | 123:57 ~ 127:29 | 03:32 | [av593844537](https://www.bilibili.com/video/av593844537) / [BV18q4y1b7Gp](https://www.bilibili.com/video/BV18q4y1b7Gp) |
 | [卷王之王2021](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=7649) | 手书 | 127:29 ~ 130:33 | 03:04 | [av593776497](https://www.bilibili.com/video/av593776497) / [BV1Mq4y1b7nw](https://www.bilibili.com/video/BV1Mq4y1b7nw) |
@@ -60,4 +60,4 @@
 | [主持 4 - 阿求, 灵梦, 文, 妖梦](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=6014) | / | 100:14 ~ 102:07 | 01:53 | / |
 | [谢幕「雁别平沙」](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=6127) | 音乐 | 102:07 ~ 106:18 | 04:11 | / |
 
-单品发布进度: 25/40 (62%)
+单品发布进度: 26/40 (65%)

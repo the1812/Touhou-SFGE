@@ -155,6 +155,8 @@ export const items: ListItem[] = [
     page: 1,
     title: '继续写下去, 直到最后',
     type: 'MAD',
+    aid: '338825017',
+    bvid: 'BV1ZR4y1j7yn',
   },
   {
     time: '118:07',
