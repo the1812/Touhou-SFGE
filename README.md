@@ -34,6 +34,7 @@
 | [继续写下去, 直到最后](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=6866) | MAD | 114:26 ~ 118:07 | 03:41 | / |
 | [东方热舞派对](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=7087) | 舞蹈 | 118:07 ~ 123:57 | 05:50 | / |
 | [尘世不变的悲观主义 \~ 心绮楼囃子](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=7437) | 演奏 | 123:57 ~ 127:29 | 03:32 | [av593844537](https://www.bilibili.com/video/av593844537) / [BV18q4y1b7Gp](https://www.bilibili.com/video/BV18q4y1b7Gp) |
+| [卷王之王2021](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=7649) | 手书 | 127:29 ~ 130:33 | 03:04 | / |
 
 ## P2 华幕拉开万事新
 |节目|类型|时间|时长|单品|

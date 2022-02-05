@@ -166,6 +166,12 @@ export const items: ListItem[] = [
     bvid: "BV18q4y1b7Gp",
   },
   {
+    time: '127:29',
+    page: 1,
+    title: '卷王之王2021',
+    type: '手书',
+  },
+  {
     time: '00:00',
     page: 2,
     title: '主持 3 - 灵梦, 文',

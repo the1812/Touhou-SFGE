@@ -8,7 +8,7 @@ const mainInfo: MainInfo = {
   pages: [
     {
       title: 'P1 灯光映照千百景',
-      endTime: '127:29',
+      endTime: '130:33',
     },
     {
       title: 'P2 华幕拉开万事新',
