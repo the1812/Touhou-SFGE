@@ -77,6 +77,8 @@ export const items: ListItem[] = [
     page: 1,
     title: '东方偶像是传奇 重新开始',
     type: 'MMD',
+    aid: '893769206',
+    bvid: 'BV1rP4y1A7sN',
   },
   {
     time: '56:57',
@@ -156,6 +158,8 @@ export const items: ListItem[] = [
     page: 1,
     title: '东方热舞派对',
     type: '舞蹈',
+    aid: '808865890',
+    bvid: 'BV1R34y1y7oT',
   },
   {
     time: '123:57',
@@ -170,6 +174,8 @@ export const items: ListItem[] = [
     page: 1,
     title: '卷王之王2021',
     type: '手书',
+    aid: '593776497',
+    bvid: 'BV1Mq4y1b7nw',
   },
   {
     time: '00:00',
@@ -201,6 +207,8 @@ export const items: ListItem[] = [
     page: 2,
     title: '遇见',
     type: 'MMD',
+    aid: '551355900',
+    bvid: 'BV1Fi4y1f7Cy',
   },
   {
     time: '19:16',
@@ -251,6 +259,8 @@ export const items: ListItem[] = [
     page: 2,
     title: '最善的选择',
     type: 'Cosplay',
+    aid: '508780164',
+    bvid: 'BV1Hu411d7QW',
   },
   {
     time: '71:21',
