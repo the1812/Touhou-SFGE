@@ -21,7 +21,7 @@ const mainInfo: MainInfo = {
 export const update = () => updateList({
   mainInfo,
   items,
-  singleCount: 21 + 17,
+  singleCount: 22 + 17,
   template: `
 # 【2022·东方华灯宴】节目表
 [【正片】2022·东方华灯宴](https://www.bilibili.com/video/BV16q4y1h7xX)
