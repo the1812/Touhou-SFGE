@@ -13,6 +13,7 @@ export interface ListItem {
   title: string
   aid?: string
   bvid?: string
+  youtube?: string
   type?: string
 }
 export const updateList = (config: {
@@ -67,6 +68,9 @@ export const updateList = (config: {
     const single = (() => {
       if (item.aid && item.bvid) {
         return `| [av${item.aid}](${prefix}av${item.aid}) / [${item.bvid}](${prefix}${item.bvid}) `
+      }
+      if (item.youtube) {
+        return `| [YouTube](https://www.youtube.com/watch?v=${item.youtube}) `
       }
       return '| / '
     })()

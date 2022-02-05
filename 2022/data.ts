@@ -21,6 +21,7 @@ export const items: ListItem[] = [
     time: '07:41',
     page: 1,
     title: '神之乐章 - 幻想乡世界之旅',
+    youtube: '8o_H2YhCmDk',
     type: 'MAD',
   },
   {
