@@ -23,8 +23,6 @@ export const items: ListItem[] = [
     title: '神之乐章 - 幻想乡世界之旅',
     youtube: '8o_H2YhCmDk',
     type: 'MAD',
-    aid: '338802856',
-    bvid: 'BV1QR4y1j7ry',
   },
   {
     time: '10:26',
@@ -80,6 +78,8 @@ export const items: ListItem[] = [
     page: 1,
     title: '东方偶像是传奇 重新开始',
     type: 'MMD',
+    aid: '893769206',
+    bvid: 'BV1rP4y1A7sN',
   },
   {
     time: '56:57',
@@ -104,7 +104,10 @@ export const items: ListItem[] = [
   {
     time: '75:35',
     page: 1,
-    title: '嘉宾祝福',
+    title: '日本同人社团贺年',
+    type: '嘉宾祝福',
+    aid: '296357380',
+    bvid: 'BV1QF411J7vy',
   },
   {
     time: '87:02',
@@ -153,18 +156,32 @@ export const items: ListItem[] = [
     page: 1,
     title: '继续写下去, 直到最后',
     type: 'MAD',
+    aid: '338825017',
+    bvid: 'BV1ZR4y1j7yn',
   },
   {
     time: '118:07',
     page: 1,
     title: '东方热舞派对',
     type: '舞蹈',
+    aid: '808865890',
+    bvid: 'BV1R34y1y7oT',
   },
   {
     time: '123:57',
     page: 1,
     title: '尘世不变的悲观主义 ~ 心绮楼囃子',
     type: '演奏',
+    aid: "593844537",
+    bvid: "BV18q4y1b7Gp",
+  },
+  {
+    time: '127:29',
+    page: 1,
+    title: '卷王之王2021',
+    type: '手书',
+    aid: '593776497',
+    bvid: 'BV1Mq4y1b7nw',
   },
   {
     time: '00:00',
@@ -196,6 +213,8 @@ export const items: ListItem[] = [
     page: 2,
     title: '遇见',
     type: 'MMD',
+    aid: '551355900',
+    bvid: 'BV1Fi4y1f7Cy',
   },
   {
     time: '19:16',
@@ -210,6 +229,8 @@ export const items: ListItem[] = [
     page: 2,
     title: '梦闲月谈',
     type: '音乐·PV',
+    aid: '851136521',
+    bvid: 'BV1XL4y1x7kq',
   },
   {
     time: '33:56',
@@ -238,12 +259,16 @@ export const items: ListItem[] = [
     page: 2,
     title: '天 ~ Ancients',
     type: '音乐·PV',
+    aid: '808865500',
+    bvid: 'BV1X34y1y7R7',
   },
   {
     time: '61:04',
     page: 2,
     title: '最善的选择',
     type: 'Cosplay',
+    aid: '508780164',
+    bvid: 'BV1Hu411d7QW',
   },
   {
     time: '71:21',
