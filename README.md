@@ -23,7 +23,7 @@
 | [东方偶像是传奇 重新开始](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=3271) | MMD | 54:31 ~ 56:57 | 02:26 | [av893769206](https://www.bilibili.com/video/av893769206) / [BV1rP4y1A7sN](https://www.bilibili.com/video/BV1rP4y1A7sN) |
 | [彼与此之乡](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=3417) | 绘画 | 56:57 ~ 60:47 | 03:50 | [av766277013](https://www.bilibili.com/video/av766277013) / [BV1fr4y187vm](https://www.bilibili.com/video/BV1fr4y187vm) |
 | [无法逾越的一寸之壁](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=3647) | 3D | 60:47 ~ 70:08 | 09:21 | / |
-| [苍月下的决意](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=4208) | 音乐·PV | 70:08 ~ 75:35 | 05:27 | / |
+| [苍月下的决意](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=4208) | 音乐·PV | 70:08 ~ 75:35 | 05:27 | [av681290994](https://www.bilibili.com/video/av681290994) / [BV1qS4y15733](https://www.bilibili.com/video/BV1qS4y15733) |
 | [日本同人社团贺年](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=4535) | 嘉宾祝福 | 75:35 ~ 87:02 | 11:27 | [av296357380](https://www.bilibili.com/video/av296357380) / [BV1QF411J7vy](https://www.bilibili.com/video/BV1QF411J7vy) |
 | [Welcome Home](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=5222) | 音乐·PV | 87:02 ~ 92:09 | 05:07 | / |
 | [完全凭依演奏会](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=5529) | 演奏 | 92:09 ~ 98:07 | 05:58 | [av466062186](https://www.bilibili.com/video/av466062186) / [BV1DL411F7h7](https://www.bilibili.com/video/BV1DL411F7h7) |
@@ -60,4 +60,4 @@
 | [主持 4 - 阿求, 灵梦, 文, 妖梦](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=6014) | / | 100:14 ~ 102:07 | 01:53 | / |
 | [谢幕「雁别平沙」](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=6127) | 音乐 | 102:07 ~ 106:18 | 04:11 | / |
 
-单品发布进度: 27/40 (67%)
+单品发布进度: 28/40 (70%)

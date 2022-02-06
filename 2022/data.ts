@@ -100,6 +100,8 @@ export const items: ListItem[] = [
     page: 1,
     title: '苍月下的决意',
     type: '音乐·PV',
+    aid: '681290994',
+    bvid: 'BV1qS4y15733',
   },
   {
     time: '75:35',
