@@ -83,7 +83,7 @@ ${mainLink + type + time + single + '|'}`
     return mainLink + type + time + single + '|'
   }).join('\n')
   const note = (() => {
-    const singleCount = items.filter(it => Boolean(it.aid)).length
+    const singleCount = items.filter(it => Boolean(it.aid || it.bvid || it.youtube)).length
     if (singleCount === totalSingleCount) {
       console.log('单品已全部发布')
       return ''
