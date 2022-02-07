@@ -255,8 +255,10 @@ export const items: ListItem[] = [
   {
     time: '50:58',
     page: 2,
-    title: '幻想乡の夏踊り',
+    title: '幻想郷の夏踊り',
     type: '舞蹈',
+    aid: '423822356',
+    bvid: 'BV1A3411J7vT',
   },
   {
     time: '56:08',

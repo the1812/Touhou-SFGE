@@ -48,7 +48,7 @@
 | [梦闲月谈](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=1778) | 音乐·PV | 29:38 ~ 33:56 | 04:18 | [av851136521](https://www.bilibili.com/video/av851136521) / [BV1XL4y1x7kq](https://www.bilibili.com/video/BV1XL4y1x7kq) |
 | [东方绀珠传 LastBoss 组曲](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=2036) | 音乐·3D | 33:56 ~ 46:02 | 12:06 | [av636343941](https://www.bilibili.com/video/av636343941) / [BV1Ab4y177pm](https://www.bilibili.com/video/BV1Ab4y177pm) |
 | [名侦探爱丽丝酱](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=2762) | 手书 | 46:02 ~ 50:58 | 04:56 | [av723781677](https://www.bilibili.com/video/av723781677) / [BV1qS4y1k7pv](https://www.bilibili.com/video/BV1qS4y1k7pv) |
-| [幻想乡の夏踊り](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=3058) | 舞蹈 | 50:58 ~ 56:08 | 05:10 | / |
+| [幻想郷の夏踊り](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=3058) | 舞蹈 | 50:58 ~ 56:08 | 05:10 | [av423822356](https://www.bilibili.com/video/av423822356) / [BV1A3411J7vT](https://www.bilibili.com/video/BV1A3411J7vT) |
 | [天 \~ Ancients](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=3368) | 音乐·PV | 56:08 ~ 61:04 | 04:56 | [av808865500](https://www.bilibili.com/video/av808865500) / [BV1X34y1y7R7](https://www.bilibili.com/video/BV1X34y1y7R7) |
 | [最善的选择](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=3664) | Cosplay | 61:04 ~ 71:21 | 10:17 | [av508780164](https://www.bilibili.com/video/av508780164) / [BV1Hu411d7QW](https://www.bilibili.com/video/BV1Hu411d7QW) |
 | [同人游戏宣传](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=4281) | / | 71:21 ~ 77:42 | 06:21 | / |
@@ -60,4 +60,4 @@
 | [主持 4 - 阿求, 灵梦, 文, 妖梦](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=6014) | / | 100:14 ~ 102:07 | 01:53 | / |
 | [谢幕「雁别平沙」](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=6127) | 音乐 | 102:07 ~ 106:18 | 04:11 | / |
 
-单品发布进度: 29/40 (72%)
+单品发布进度: 30/40 (75%)
