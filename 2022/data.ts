@@ -11,6 +11,8 @@ export const items: ListItem[] = [
     page: 1,
     title: '开幕「宴平乐」',
     type: '音乐·PV',
+    aid: '936445547',
+    bvid: 'BV1jT4y1X7jM',
   },
   {
     time: '05:29',

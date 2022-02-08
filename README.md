@@ -10,7 +10,7 @@
 |节目|类型|时间|时长|单品|
 |----|----|----|----|----|
 | [关于华灯宴的传说·其一](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=0) | / | 00:00 ~ 01:03 | 01:03 | / |
-| [开幕「宴平乐」](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=63) | 音乐·PV | 01:03 ~ 05:29 | 04:26 | / |
+| [开幕「宴平乐」](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=63) | 音乐·PV | 01:03 ~ 05:29 | 04:26 | [av936445547](https://www.bilibili.com/video/av936445547) / [BV1jT4y1X7jM](https://www.bilibili.com/video/BV1jT4y1X7jM) |
 | [主持 1 - 灵梦, 文](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=329) | / | 05:29 ~ 07:41 | 02:12 | / |
 | [神之乐章 - 幻想乡世界之旅](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=461) | MAD | 07:41 ~ 10:26 | 02:45 | [YouTube](https://www.youtube.com/watch?v=8o_H2YhCmDk) |
 | [熙攘市场何处在 \~ Immemorial Otomads](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=626) | 音MAD | 10:26 ~ 18:28 | 08:02 | [av723815423](https://www.bilibili.com/video/av723815423) / [BV1mS4y1k77g](https://www.bilibili.com/video/BV1mS4y1k77g) |
@@ -60,4 +60,4 @@
 | [主持 4 - 阿求, 灵梦, 文, 妖梦](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=6014) | / | 100:14 ~ 102:07 | 01:53 | / |
 | [谢幕「雁别平沙」](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=6127) | 音乐 | 102:07 ~ 106:18 | 04:11 | / |
 
-单品发布进度: 30/40 (75%)
+单品发布进度: 31/40 (77%)
