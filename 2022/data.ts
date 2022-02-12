@@ -11,6 +11,8 @@ export const items: ListItem[] = [
     page: 1,
     title: '开幕「宴平乐」',
     type: '音乐·PV',
+    aid: '936445547',
+    bvid: 'BV1jT4y1X7jM',
   },
   {
     time: '05:29',
@@ -100,6 +102,8 @@ export const items: ListItem[] = [
     page: 1,
     title: '苍月下的决意',
     type: '音乐·PV',
+    aid: '681290994',
+    bvid: 'BV1qS4y15733',
   },
   {
     time: '75:35',
@@ -207,6 +211,8 @@ export const items: ListItem[] = [
     page: 2,
     title: '堇梦',
     type: '手书',
+    aid: '893796621',
+    bvid: 'BV1DP4y1A77F',
   },
   {
     time: '15:20',
@@ -251,8 +257,10 @@ export const items: ListItem[] = [
   {
     time: '50:58',
     page: 2,
-    title: '幻想乡の夏踊り',
+    title: '幻想郷の夏踊り',
     type: '舞蹈',
+    aid: '423822356',
+    bvid: 'BV1A3411J7vT',
   },
   {
     time: '56:08',
