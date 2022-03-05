@@ -39,12 +39,16 @@ export const items: ListItem[] = [
     page: 1,
     title: '秘封二人的秘密',
     type: '手书',
+    bvid: 'BV1pi4y1T7hG',
+    aid: '544327491',
   },
   {
     time: '23:36',
     page: 1,
     title: '爱丽丝梦游仙境',
     type: '音乐剧',
+    bvid: 'BV1vb4y177KH',
+    aid: '636445402',
   },
   {
     time: '32:52',
@@ -96,6 +100,8 @@ export const items: ListItem[] = [
     page: 1,
     title: '无法逾越的一寸之壁',
     type: '3D',
+    bvid: 'BV1334y117AD',
+    aid: '808890240',
   },
   {
     time: '70:08',
@@ -331,5 +337,7 @@ export const items: ListItem[] = [
     page: 2,
     title: '谢幕「雁别平沙」',
     type: '音乐',
+    bvid: 'BV1TS4y1V7xF',
+    aid: '681517269',
   },
 ]

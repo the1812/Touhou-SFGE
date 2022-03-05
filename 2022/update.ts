@@ -29,6 +29,7 @@ export const update = () => updateList({
 - 节目标题点击可直接跳转到华灯宴对应分 P 和时间点
 - 时间一栏包含过场动画, 位于每个单品的开头
 - 单品的 av / BV 链接点击可跳转到单品播放页面
+- 熊怪的[收藏夹](https://space.bilibili.com/4990887/favlist?fid=1503602387)包含转场曲和幕后花絮等更多相关内容.
 
 <!-- data -->
   `.trim(),

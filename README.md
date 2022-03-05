@@ -4,6 +4,7 @@
 - 节目标题点击可直接跳转到华灯宴对应分 P 和时间点
 - 时间一栏包含过场动画, 位于每个单品的开头
 - 单品的 av / BV 链接点击可跳转到单品播放页面
+- 熊怪的[收藏夹](https://space.bilibili.com/4990887/favlist?fid=1503602387)包含转场曲和幕后花絮等更多相关内容.
 
 
 ## P1 灯光映照千百景
@@ -14,15 +15,15 @@
 | [主持 1 - 灵梦, 文](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=329) | / | 05:29 ~ 07:41 | 02:12 | / |
 | [神之乐章 - 幻想乡世界之旅](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=461) | MAD | 07:41 ~ 10:26 | 02:45 | [YouTube](https://www.youtube.com/watch?v=8o_H2YhCmDk) |
 | [熙攘市场何处在 \~ Immemorial Otomads](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=626) | 音MAD | 10:26 ~ 18:28 | 08:02 | [av723815423](https://www.bilibili.com/video/av723815423) / [BV1mS4y1k77g](https://www.bilibili.com/video/BV1mS4y1k77g) |
-| [秘封二人的秘密](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=1108) | 手书 | 18:28 ~ 23:36 | 05:08 | / |
-| [爱丽丝梦游仙境](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=1416) | 音乐剧 | 23:36 ~ 32:52 | 09:16 | / |
+| [秘封二人的秘密](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=1108) | 手书 | 18:28 ~ 23:36 | 05:08 | [av544327491](https://www.bilibili.com/video/av544327491) / [BV1pi4y1T7hG](https://www.bilibili.com/video/BV1pi4y1T7hG) |
+| [爱丽丝梦游仙境](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=1416) | 音乐剧 | 23:36 ~ 32:52 | 09:16 | [av636445402](https://www.bilibili.com/video/av636445402) / [BV1vb4y177KH](https://www.bilibili.com/video/BV1vb4y177KH) |
 | [东喜发财](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=1972) | 音乐·手书 | 32:52 ~ 35:54 | 03:02 | [av338697992](https://www.bilibili.com/video/av338697992) / [BV1ER4y1j7fD](https://www.bilibili.com/video/BV1ER4y1j7fD) |
 | [主持 2 - 阿求, 妖梦](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=2154) | / | 35:54 ~ 37:03 | 01:09 | / |
 | [你是袿姬](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=2223) | 相声 | 37:03 ~ 49:52 | 12:49 | [av978787163](https://www.bilibili.com/video/av978787163) / [BV1t44y1W7EM](https://www.bilibili.com/video/BV1t44y1W7EM) |
 | [为你心里小鹿乱撞](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=2992) | 动画 | 49:52 ~ 54:31 | 04:39 | [av766284445](https://www.bilibili.com/video/av766284445) / [BV1Gr4y1h7Md](https://www.bilibili.com/video/BV1Gr4y1h7Md) |
 | [东方偶像是传奇 重新开始](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=3271) | MMD | 54:31 ~ 56:57 | 02:26 | [av893769206](https://www.bilibili.com/video/av893769206) / [BV1rP4y1A7sN](https://www.bilibili.com/video/BV1rP4y1A7sN) |
 | [彼与此之乡](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=3417) | 绘画 | 56:57 ~ 60:47 | 03:50 | [av766277013](https://www.bilibili.com/video/av766277013) / [BV1fr4y187vm](https://www.bilibili.com/video/BV1fr4y187vm) |
-| [无法逾越的一寸之壁](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=3647) | 3D | 60:47 ~ 70:08 | 09:21 | / |
+| [无法逾越的一寸之壁](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=3647) | 3D | 60:47 ~ 70:08 | 09:21 | [av808890240](https://www.bilibili.com/video/av808890240) / [BV1334y117AD](https://www.bilibili.com/video/BV1334y117AD) |
 | [苍月下的决意](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=4208) | 音乐·PV | 70:08 ~ 75:35 | 05:27 | [av681290994](https://www.bilibili.com/video/av681290994) / [BV1qS4y15733](https://www.bilibili.com/video/BV1qS4y15733) |
 | [日本同人社团贺年](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=4535) | 嘉宾祝福 | 75:35 ~ 87:02 | 11:27 | [av296357380](https://www.bilibili.com/video/av296357380) / [BV1QF411J7vy](https://www.bilibili.com/video/BV1QF411J7vy) |
 | [Welcome Home](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=5222) | 音乐·PV | 87:02 ~ 92:09 | 05:07 | / |
@@ -58,6 +59,6 @@
 | [神古战场](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=5604) | 演奏 | 93:24 ~ 97:09 | 03:45 | [av211300439](https://www.bilibili.com/video/av211300439) / [BV1Ma411y7Ap](https://www.bilibili.com/video/BV1Ma411y7Ap) |
 | [馋死人](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=5829) | 音乐·PV | 97:09 ~ 100:14 | 03:05 | [av636279475](https://www.bilibili.com/video/av636279475) / [BV1kb4y1j7ip](https://www.bilibili.com/video/BV1kb4y1j7ip) |
 | [主持 4 - 阿求, 灵梦, 文, 妖梦](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=6014) | / | 100:14 ~ 102:07 | 01:53 | / |
-| [谢幕「雁别平沙」](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=6127) | 音乐 | 102:07 ~ 106:18 | 04:11 | / |
+| [谢幕「雁别平沙」](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=6127) | 音乐 | 102:07 ~ 106:18 | 04:11 | [av681517269](https://www.bilibili.com/video/av681517269) / [BV1TS4y1V7xF](https://www.bilibili.com/video/BV1TS4y1V7xF) |
 
-单品发布进度: 31/40 (77%)
+单品发布进度: 35/40 (87%)
