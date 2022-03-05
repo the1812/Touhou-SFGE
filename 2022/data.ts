@@ -23,7 +23,8 @@ export const items: ListItem[] = [
     time: '07:41',
     page: 1,
     title: '神之乐章 - 幻想乡世界之旅',
-    youtube: '8o_H2YhCmDk',
+    bvid: 'BV1mm4y197zK',
+    aid: '679247265',
     type: 'MAD',
   },
   {
@@ -209,7 +210,7 @@ export const items: ListItem[] = [
   {
     time: '06:14',
     page: 2,
-    title: 'たぬすがぬ',
+    title: 'ためすがめ',
     type: '手书',
   },
   {

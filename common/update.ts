@@ -1,5 +1,4 @@
 import * as fs from 'fs'
-import { groupBy } from 'lodash'
 
 export interface MainInfo {
   title: string

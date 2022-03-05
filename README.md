@@ -4,7 +4,7 @@
 - 节目标题点击可直接跳转到华灯宴对应分 P 和时间点
 - 时间一栏包含过场动画, 位于每个单品的开头
 - 单品的 av / BV 链接点击可跳转到单品播放页面
-- 熊怪的[收藏夹](https://space.bilibili.com/4990887/favlist?fid=1503602387)包含转场曲和幕后花絮等更多相关内容.
+- 熊怪的[收藏夹](https://space.bilibili.com/4990887/favlist?fid=1503602387)包含转场曲和幕后花絮等更多相关内容
 
 
 ## P1 灯光映照千百景
@@ -13,7 +13,7 @@
 | [关于华灯宴的传说·其一](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=0) | / | 00:00 ~ 01:03 | 01:03 | / |
 | [开幕「宴平乐」](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=63) | 音乐·PV | 01:03 ~ 05:29 | 04:26 | [av936445547](https://www.bilibili.com/video/av936445547) / [BV1jT4y1X7jM](https://www.bilibili.com/video/BV1jT4y1X7jM) |
 | [主持 1 - 灵梦, 文](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=329) | / | 05:29 ~ 07:41 | 02:12 | / |
-| [神之乐章 - 幻想乡世界之旅](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=461) | MAD | 07:41 ~ 10:26 | 02:45 | [YouTube](https://www.youtube.com/watch?v=8o_H2YhCmDk) |
+| [神之乐章 - 幻想乡世界之旅](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=461) | MAD | 07:41 ~ 10:26 | 02:45 | [av679247265](https://www.bilibili.com/video/av679247265) / [BV1mm4y197zK](https://www.bilibili.com/video/BV1mm4y197zK) |
 | [熙攘市场何处在 \~ Immemorial Otomads](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=626) | 音MAD | 10:26 ~ 18:28 | 08:02 | [av723815423](https://www.bilibili.com/video/av723815423) / [BV1mS4y1k77g](https://www.bilibili.com/video/BV1mS4y1k77g) |
 | [秘封二人的秘密](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=1108) | 手书 | 18:28 ~ 23:36 | 05:08 | [av544327491](https://www.bilibili.com/video/av544327491) / [BV1pi4y1T7hG](https://www.bilibili.com/video/BV1pi4y1T7hG) |
 | [爱丽丝梦游仙境](https://www.bilibili.com/video/BV16q4y1h7xX?p=1&t=1416) | 音乐剧 | 23:36 ~ 32:52 | 09:16 | [av636445402](https://www.bilibili.com/video/av636445402) / [BV1vb4y177KH](https://www.bilibili.com/video/BV1vb4y177KH) |
@@ -42,7 +42,7 @@
 |----|----|----|----|----|
 | [主持 3 - 灵梦, 文](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=0) | / | 00:00 ~ 01:24 | 01:24 | / |
 | [Midnight glow-resurrection](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=84) | 音乐·PV | 01:24 ~ 06:14 | 04:50 | [av893836342](https://www.bilibili.com/video/av893836342) / [BV1cP4y1P7Li](https://www.bilibili.com/video/BV1cP4y1P7Li) |
-| [たぬすがぬ](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=374) | 手书 | 06:14 ~ 08:55 | 02:41 | / |
+| [ためすがめ](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=374) | 手书 | 06:14 ~ 08:55 | 02:41 | / |
 | [堇梦](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=535) | 手书 | 08:55 ~ 15:20 | 06:25 | [av893796621](https://www.bilibili.com/video/av893796621) / [BV1DP4y1A77F](https://www.bilibili.com/video/BV1DP4y1A77F) |
 | [遇见](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=920) | MMD | 15:20 ~ 19:16 | 03:56 | [av551355900](https://www.bilibili.com/video/av551355900) / [BV1Fi4y1f7Cy](https://www.bilibili.com/video/BV1Fi4y1f7Cy) |
 | [卖烟花](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=1156) | 相声 | 19:16 ~ 29:38 | 10:22 | [av636315065](https://www.bilibili.com/video/av636315065) / [BV19b4y1j7mK](https://www.bilibili.com/video/BV19b4y1j7mK) |
