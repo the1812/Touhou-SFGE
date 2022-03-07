@@ -53,7 +53,7 @@
 | [天 \~ Ancients](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=3368) | 音乐·PV | 56:08 ~ 61:04 | 04:56 | [av808865500](https://www.bilibili.com/video/av808865500) / [BV1X34y1y7R7](https://www.bilibili.com/video/BV1X34y1y7R7) |
 | [最善的选择](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=3664) | Cosplay | 61:04 ~ 71:21 | 10:17 | [av508780164](https://www.bilibili.com/video/av508780164) / [BV1Hu411d7QW](https://www.bilibili.com/video/BV1Hu411d7QW) |
 | [同人游戏宣传](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=4281) | / | 71:21 ~ 77:42 | 06:21 | / |
-| [东方dots 战端再起](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=4662) | MMD | 77:42 ~ 84:42 | 07:00 | / |
+| [东方dots 战端再起](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=4662) | MMD | 77:42 ~ 84:42 | 07:00 | [av937081170](https://www.bilibili.com/video/av937081170) / [BV1MT4y1D79k](https://www.bilibili.com/video/BV1MT4y1D79k) |
 | [源](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=5082) | 音乐·PV | 84:42 ~ 89:17 | 04:35 | [av508772972](https://www.bilibili.com/video/av508772972) / [BV1Hu411d7vL](https://www.bilibili.com/video/BV1Hu411d7vL) |
 | [Spelling Love](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=5357) | 手书 | 89:17 ~ 93:24 | 04:07 | [av551294990](https://www.bilibili.com/video/av551294990) / [BV1ri4y1Z7MH](https://www.bilibili.com/video/BV1ri4y1Z7MH) |
 | [神古战场](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=5604) | 演奏 | 93:24 ~ 97:09 | 03:45 | [av211300439](https://www.bilibili.com/video/av211300439) / [BV1Ma411y7Ap](https://www.bilibili.com/video/BV1Ma411y7Ap) |
@@ -61,4 +61,4 @@
 | [主持 4 - 阿求, 灵梦, 文, 妖梦](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=6014) | / | 100:14 ~ 102:07 | 01:53 | / |
 | [谢幕「雁别平沙」](https://www.bilibili.com/video/BV16q4y1h7xX?p=2&t=6127) | 音乐 | 102:07 ~ 106:18 | 04:11 | [av681517269](https://www.bilibili.com/video/av681517269) / [BV1TS4y1V7xF](https://www.bilibili.com/video/BV1TS4y1V7xF) |
 
-单品发布进度: 35/40 (87%)
+单品发布进度: 36/40 (90%)

@@ -295,6 +295,8 @@ export const items: ListItem[] = [
     page: 2,
     title: '东方dots 战端再起',
     type: 'MMD',
+    aid: '937081170',
+    bvid: 'BV1MT4y1D79k',
   },
   {
     time: '84:42',
