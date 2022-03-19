@@ -125,6 +125,8 @@ export const items: ListItem[] = [
     page: 1,
     title: 'Welcome Home',
     type: '音乐·PV',
+    aid: '937248770',
+    bvid: 'BV1uT4y1U7gk',
   },
   {
     time: '92:09',
@@ -139,6 +141,8 @@ export const items: ListItem[] = [
     page: 1,
     title: '第 16 回东方 M1 漫才大奖赛 - 巫女巫女 Spark',
     type: '漫才',
+    aid: '467281052',
+    bvid: 'BV1sL411P7YW',
   },
   {
     time: '106:14',
